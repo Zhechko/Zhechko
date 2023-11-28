@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Sergey
+👀 Frontend
+🌱 Software Engineer | Coheren Solutions
+📫 s.zhechko@icloud.com
