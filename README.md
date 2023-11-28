@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Sergey
-👀 Frontend
-🌱 Software Engineer | Coheren Solutions
-📫 s.zhechko@icloud.com
+- 👋 Hi, I’m Sergey
+- 👀 Frontend
+- 🌱 Software Engineer | Coheren Solutions
+- 📫 s.zhechko@icloud.com
