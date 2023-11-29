@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Sergey
 - 👀 Frontend
 - 🌱 Software Engineer | Coherent Solutions
+- 🔭 I’m currently working on Remix.run
 - 📫 s.zhechko@icloud.com
